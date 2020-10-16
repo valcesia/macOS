@@ -10,7 +10,7 @@
     <array>
         <string>/Applications/Google Chrome.app/Contents/MacOS/Google Chrome</string>
         <string>--kiosk</string>
-        <string>https://webris.okdhmg.rededor.corp/</string>
+        <string>https://URL/</string>
     </array>
     <key>LSUIPresentationMode</key>
     <integer>3</integer> 
