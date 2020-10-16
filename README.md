@@ -9,4 +9,4 @@ Welcome to the **macOS Scripts** repository.  This repository is intended for sh
 
 ## Code Style
 
-* Bash
+* Shell
